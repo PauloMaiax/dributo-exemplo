@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+}
+body {
+
+    background-color: #ffeead;
+    font-family: 'Indie Flower', cursive;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+.sub-titulo{
+    text-align: center;
+    margin-top: 20px;
+}
+.photo {
+    text-align: center;
+
+}
+.foto {
+    border-radius: 10cm;
+}
+.titulo-foto {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.preto-box{
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: auto;
+    height: 720px;
+    border-radius: 5cm;
+    color: aliceblue;
+    font-size: 15px;
+    
+}
+.foto2 {
+border-radius: 2cm;
+padding: 10px;
+}
+.conteudo {
+    display: flex;
+    margin: 200px;
+}
+.titulo {
+    flex-direction: column;
+    text-align: center;
+
+}
+.branco-box {
+    display: flex;
+    height: 70px;
+    margin: 20px;
+    border-radius: 35cm;
+    border-style: dotted;
+    background-color: azure;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 170px;
+
+    
+}
+
+.preto {
+    display: flex;
+    background-color: #ffef96;
+    text-align: center;
+    justify-content: center;
+}
